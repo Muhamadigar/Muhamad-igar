@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: ;
+  
+
+}
+
+
+.halal {
+  margin-top: 20px;
+}
+
+.haram {
+  margin-top: 40px;
+}
+
+.gambar {
+  border: 2px solid black;
+  border-color: white;
+}
+
+.footer {
+  padding: 40px;
+  margin-top: 30px;
+  background-color: #4460dc;
+  color: white;
+}
+
+body {
+  background-color:black;
+}
